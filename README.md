@@ -15,4 +15,4 @@ We have used  **SQFLITE** database to store persistant data.
 ![Screen](assets/screenshots/screen.png)
 ![Screen](assets/screenshots/alert.png)
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?88A02258A658E242E9C990A2023F186ACD23
+https://prod.liveshare.vsengsaas.visualstudio.com/join?88A02258A658E242E9C990A2023F186ACD
